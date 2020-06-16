@@ -1,11 +1,11 @@
-## はじめてのGitHub
+# はじめてのGitHub
 Shinjo-A　新城光乃
 <https://github.com/Shinjo-A/Sample>
 
-# ローカルリポジトリ
+## ローカルリポジトリ
 * お好み焼きレシピ
-<okonomi.txt>
+okonomi.txt
 
-# リモートリポジトリ
-* <README.md>を作ってみる
+## リモートリポジトリ
+* README.mdを作ってみる
 * マークダウンを覚える
