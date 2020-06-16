@@ -4,7 +4,7 @@ Shinjo-A　新城光乃
 
 ## ローカルリポジトリ
 * お好み焼きレシピ
-okonomi.txt
+[okonomi.txt](okonomi.txt)
 
 ## リモートリポジトリ
 * README.mdを作ってみる
